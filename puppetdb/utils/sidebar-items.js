@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["assert_status_ok","Exits with an error if the response did not have status 200."],["prettify_response_to_stdout","Pretty prints the response body to stdout."]],"type":[["Result","Type alias for the result of a hyper HTTP request."]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["client",""],["default_config_path","Given a `home_dir` (e.g. from `std::env::home_dir()`), returns the default location of the client configuration file, `$HOME/.puppetlabs/client-tools/puppetdb.conf`."],["ssl_connector",""],["ssl_context",""]],"struct":[["Config",""],["PdbRequest",""]]});
